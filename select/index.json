@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Happy time",
+  "base_artist": "辻野かなみ (超ときめき♡宣伝部)",
+  "createdAt": "2026-03-29T05:27:12.601436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Time",
+      "artist": "Daniel Johnston",
+      "has_synced": false,
+      "path": "select/01_Happy_Time_Daniel_Johnston.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Time",
+      "artist": "The Skyliners",
+      "has_synced": true,
+      "path": "select/02_Happy_Time_The_Skyliners.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Time",
+      "artist": "Tim Buckley",
+      "has_synced": true,
+      "path": "select/03_Happy_Time_Tim_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Time (2017 Remaster; Remastered)",
+      "artist": "Tim Buckley",
+      "has_synced": true,
+      "path": "select/04_Happy_Time_(2017_Remaster;_Remastered)_Tim_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Time",
+      "artist": "Skyliners",
+      "has_synced": true,
+      "path": "select/05_Happy_Time_Skyliners.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Happy Time",
+      "artist": "Liza Minnelli",
+      "has_synced": false,
+      "path": "select/06_The_Happy_Time_Liza_Minnelli.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy time",
+      "artist": "辻野かなみ (超ときめき 宣伝部)",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_time_辻野かなみ_(超ときめき_宣伝部).txt"
+    }
+  ]
+}
